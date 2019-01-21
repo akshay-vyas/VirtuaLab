@@ -1,0 +1,58 @@
+@charset "utf-8";
+.calendar {
+   width: 679px;
+}
+.calendar div {
+   float: left;
+   height: 70px;
+   width: 95px;
+   border: 1px solid #333333;
+}
+.calendar .monheader {
+   font-weight: bold;
+   color: #FFFFFF;
+   text-align: center;
+   height: 20px;
+   width: 677px;
+   background-color: #60AEC7;
+}
+.calendar .dayheader {
+   font-weight: bold;
+   color: #FFFFFF;
+   text-align: center;
+   height: 20px;
+   background-color: #93c9f5;
+}
+.calendar .day {
+   background-color: #C4DAE3;
+   font-family:Georgia;
+   font-weight:bold;
+}
+.calendar .holiday {
+   background-color: #db9d7b;
+   font-family:Georgia;
+   color:#CC0000;
+   font-weight:bold;
+}
+.calendar .sat {
+   background-color: #c7d581;
+   font-family:Georgia;
+   color:#CC0000;
+   font-weight:bold;
+}
+.calendar .present {
+   background-color: #30e877;
+   border-color: #CC0000;
+   font-family:Georgia;
+   font-weight:bold;
+}
+.calendar .absent {
+   background-color: #FC1229;
+   color: #000000;
+   font-family:Georgia;
+   font-weight:bold;
+}
+.calendar .inactive {
+   background-color: #666666;
+}
+
