@@ -11,7 +11,7 @@
 							</ul>
 						</div>
 						<div class="footer-right">
-							<p>All Rights Reserved | Design and Developed By <a href="#.">Akshay D Vyas</a></p>
+							<p>All Rights Reserved | Design and Developed By <a href="#.">Akshay D Vyas 8123619432</a></p>
 						</div>
 						<div class=="clear"> </div>
 					</div>
